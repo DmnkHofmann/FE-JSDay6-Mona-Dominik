@@ -57,6 +57,7 @@ function addToCart(product) {
     }
     // console.table(cart);
     createRows();
+
     Total();
 }
 
